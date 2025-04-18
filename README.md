@@ -63,7 +63,7 @@ A new seller on Amazon needs data-driven advice on which footwear brands and cat
 
 ### 🔹 Graph 2: Average Sales Count vs. Average Discount by Brand
 
-![Sales vs Discount](visuals/sales_vs_discount.png)
+![Sales vs Discount](visuals/sales_vs_discount.jpg)
 
 ✅ *Insight*: Moderate discounts are more effective than extreme ones.
 
@@ -71,7 +71,7 @@ A new seller on Amazon needs data-driven advice on which footwear brands and cat
 
 ### 🔹 Graph 3: Gender Distribution in Sales
 
-![Gender Sales Distribution](visuals/gender_sales_distribution.png)
+![Gender Sales Distribution](visuals/gender_sales_distribution.jpg)
 
 ✅ *Insight*: Female footwear contributes 54% of total sales.
 
@@ -79,7 +79,7 @@ A new seller on Amazon needs data-driven advice on which footwear brands and cat
 
 ### 🔹 Graph 4: Category-wise Sales Count
 
-![Category Sales Count](visuals/category_sales_count.png)
+![Category Sales Count](visuals/category_sales_count.jpg)
 
 ✅ *Insight*: Sandals dominate, followed by slippers and shoes.
 
@@ -87,7 +87,7 @@ A new seller on Amazon needs data-driven advice on which footwear brands and cat
 
 ### 🔹 Graph 5: Correlation Heatmap
 
-![Correlation Heatmap](visuals/correlation_heatmap.png)
+![Correlation Heatmap](visuals/correlation_heatmap.jpg)
 
 ✅ *Insight*: Weak correlation between pricing, discounts, ratings, and actual sales count.
 
