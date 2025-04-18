@@ -55,7 +55,7 @@ A new seller on Amazon needs data-driven advice on which footwear brands and cat
 
 ### 🔹 Graph 1: Top 10 Brands by Sales Count
 
-![Top Brands by Sales](visuals/top_brands_sales_count.png)
+![Top Brands by Sales](visuals/top_brands_sales_count.jpg)
 
 ✅ *Insight*: Bata leads, followed by Sparx and Doctor Extra Soft.
 
